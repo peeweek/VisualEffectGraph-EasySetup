@@ -1,4 +1,4 @@
-# Visual Effect Graph - Easy Setup
+# Visual Effect Graph - Easy Setup (For GitHub version ONLY)
 
 This project holds an already configured HDRP project if you want to try Visual Effect Graph **directly from the GitHub repository** (instead of using the package manager version).
 
