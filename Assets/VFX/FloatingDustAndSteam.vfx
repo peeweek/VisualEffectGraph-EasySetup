@@ -2199,7 +2199,6 @@ VisualEffectResource:
       receiveShadows: 0
       reflectionProbeUsage: 0
       lightProbeUsage: 0
-      transparencyPriority: 0
     m_CullingFlags: 0
     m_UpdateMode: 0
   m_Systems:
