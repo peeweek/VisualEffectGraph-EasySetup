@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "com.unity.package-manager-ui": "2.0.2",
-    "com.unity.render-pipelines.core": "file:../GitHub/com.unity.render-pipelines.core",
-    "com.unity.render-pipelines.high-definition": "file:../GitHub/com.unity.render-pipelines.high-definition",
-    "com.unity.shadergraph": "file:../GitHub/com.unity.shadergraph",
-    "com.unity.visualeffectgraph": "file:../GitHub/com.unity.visualeffectgraph",
+    "com.unity.package-manager-ui": "2.0.3",
+    "com.unity.render-pipelines.core": "4.6.0-preview",
+    "com.unity.render-pipelines.high-definition": "4.6.0-preview",
+    "com.unity.visualeffectgraph": "4.6.0-preview",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",
