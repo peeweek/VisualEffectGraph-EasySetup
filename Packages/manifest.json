@@ -4,6 +4,8 @@
     "com.unity.render-pipelines.core": "4.6.0-preview",
     "com.unity.render-pipelines.high-definition": "4.6.0-preview",
     "com.unity.visualeffectgraph": "4.6.0-preview",
+    "net.peeweek.vfxgraph-extras": "https://github.com/peeweek/net.peeweek.vfxgraph-extras.git",
+    "uo-recorder": "https://github.com/peeweek/uo-recorder.git",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",
@@ -34,5 +36,15 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "net.peeweek.vfxgraph-extras": {
+      "hash": "53fab993e5a0e38c98e8ca2c1eb4a1a48d38e210",
+      "revision": "HEAD"
+    },
+    "uo-recorder": {
+      "hash": "eb9c32cb1a0d51ae01689f0bc24748c7790fcb17",
+      "revision": "HEAD"
+    }
   }
 }
