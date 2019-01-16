@@ -1,9 +1,11 @@
 {
   "dependencies": {
     "com.unity.package-manager-ui": "2.0.3",
-    "com.unity.render-pipelines.core": "4.6.0-preview",
+    "com.unity.render-pipelines.core": "4.7.0-preview",
     "com.unity.render-pipelines.high-definition": "4.7.0-preview",
     "com.unity.visualeffectgraph": "4.7.0-preview",
+    "net.peeweek.vfxgraph-extras": "https://github.com/peeweek/net.peeweek.vfxgraph-extras.git#91016c4",
+    "uo-recorder": "https://github.com/peeweek/uo-recorder.git#a6af12f",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",
@@ -35,5 +37,15 @@
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
   },
-  "registry": "https://staging-packages.unity.com"
+  "registry": "https://staging-packages.unity.com",
+  "lock": {
+    "net.peeweek.vfxgraph-extras": {
+      "hash": "91016c40df027471e24bdb1833e3b9737e66ccac",
+      "revision": "91016c4"
+    },
+    "uo-recorder": {
+      "hash": "a6af12f2f35f3d49f282bc677eb0b69b4b94d60f",
+      "revision": "a6af12f"
+    }
+  }
 }
