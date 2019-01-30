@@ -1,10 +1,19 @@
-# Visual Effect Graph - Easy Setup (For GitHub version ONLY)
+# Visual Effect Graph - Boilerplate Template
 
 This project holds an already configured HDRP project if you want to try Visual Effect Graph **directly from the GitHub repository** (instead of using the package manager version).
 
 WARNING : If you use this script, you will be exposed to more bugs and instabilities that the regular package* version . I strongly advise anyone who wants to have a smoother experience to use the visual effect graph package* instead.
 
 (*when available)
+
+## Regular Package Version
+
+Clone either the following branches:
+
+* 2018.3-package for the latest package version for 2018.3
+* 2018.3-staging for the latest staging package version for 2018.3
+
+## Local Package Version
 
 ###  Set-Up
 
