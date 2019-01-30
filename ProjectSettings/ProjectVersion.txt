@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-m_EditorVersion: 2018.3.0b7
-=======
-m_EditorVersion: 2018.3.0f2
->>>>>>> 2018.3-package
+m_EditorVersion: 2018.3.3f1
