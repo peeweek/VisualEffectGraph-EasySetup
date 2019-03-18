@@ -2,9 +2,9 @@
   "dependencies": {
     "com.unity.package-manager-ui": "2.1.1",
     "com.unity.render-pipelines.core": "5.3.0",
-    "com.unity.render-pipelines.high-definition": "5.3.0-preview",
+    "com.unity.render-pipelines.high-definition": "5.8.2-preview",
     "com.unity.timeline": "1.0.0",
-    "com.unity.visualeffectgraph": "5.3.0-preview",
+    "com.unity.visualeffectgraph": "5.8.2-preview",
     "com.unity.xr.legacyinputhelpers": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
